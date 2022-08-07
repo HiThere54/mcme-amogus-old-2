@@ -1,0 +1,12 @@
+{
+  "com.meme.rickroll": {
+    "category": "music",
+    "subtitle": "subtitles.com.meme.rickroll",
+    "sounds": [
+      {
+        "name": "the_doom_dragons:rick-astley-never-gonna-give-you-up-_official-music-video_",
+        "stream": true
+      }
+    ]
+  }
+}

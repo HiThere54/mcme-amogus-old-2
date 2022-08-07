@@ -1,0 +1,29 @@
+{
+  "_fv": 28,
+  "_type": "tool",
+  "definition": {
+    "renderType": 0,
+    "texture": "susnife",
+    "customModelName": "Normal",
+    "name": "Imposternife",
+    "specialInfo": [
+      "super wapen"
+    ],
+    "creativeTab": {
+      "value": "COMBAT"
+    },
+    "toolType": "Pickaxe",
+    "harvestLevel": 6,
+    "efficiency": 4.0,
+    "attackSpeed": 1.0,
+    "enchantability": 999,
+    "damageVsEntity": 1000.0,
+    "usageCount": 0,
+    "blocksAffected": [],
+    "hasGlow": false,
+    "repairItems": [],
+    "immuneToFire": true,
+    "stayInGridWhenCrafting": false,
+    "damageOnCrafting": false
+  }
+}

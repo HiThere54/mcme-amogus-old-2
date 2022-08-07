@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "the_doom_dragons:blocks/red",
+    "up": "the_doom_dragons:blocks/amogusdirt1",
+    "north": "the_doom_dragons:blocks/amogusdirt2",
+    "east": "the_doom_dragons:blocks/amogusdirt2",
+    "south": "the_doom_dragons:blocks/amogusdirt2",
+    "west": "the_doom_dragons:blocks/amogusdirt2",
+    "particle": "the_doom_dragons:blocks/red"
+  }
+}

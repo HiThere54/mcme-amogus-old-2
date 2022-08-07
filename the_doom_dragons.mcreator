@@ -1,0 +1,116 @@
+{
+  "mod_elements": [
+    {
+      "name": "Amogusdirt",
+      "type": "block",
+      "sortid": 1,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "amogusdirt"
+    },
+    {
+      "name": "Amogusore",
+      "type": "block",
+      "sortid": 2,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "amogusore"
+    },
+    {
+      "name": "Susleaf",
+      "type": "block",
+      "sortid": 3,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "susleaf"
+    },
+    {
+      "name": "Suslog",
+      "type": "block",
+      "sortid": 3,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "suslog"
+    },
+    {
+      "name": "Opblock",
+      "type": "block",
+      "sortid": 4,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "opblock"
+    },
+    {
+      "name": "Sus",
+      "type": "biome",
+      "sortid": 1,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "sus"
+    },
+    {
+      "name": "Imposternife",
+      "type": "tool",
+      "sortid": 5,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "imposternife"
+    },
+    {
+      "name": "Impostr",
+      "type": "livingentity",
+      "sortid": 5,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "impostr"
+    }
+  ],
+  "variable_elements": [],
+  "sound_elements": [
+    {
+      "name": "com.meme.rickroll",
+      "files": [
+        "rick-astley-never-gonna-give-you-up-_official-music-video_"
+      ],
+      "category": "music",
+      "subtitle": "rickroll"
+    }
+  ],
+  "language_map": {
+    "en_us": {
+      "block.the_doom_dragons.susleaf": "Susleaf",
+      "block.the_doom_dragons.suslog": "Sus log",
+      "subtitles.com.meme.rickroll": "rickroll",
+      "item.the_doom_dragons.imposternife": "Imposternife",
+      "item.the_doom_dragons.impostr_spawn_egg": "Impostr Spawn Egg",
+      "entity.the_doom_dragons.impostr": "Impostr",
+      "biome.the_doom_dragons.sus": "Sus",
+      "block.the_doom_dragons.amogusdirt": "Amogus Dirt",
+      "block.the_doom_dragons.opblock": "OPBlock",
+      "block.the_doom_dragons.amogusore": "Amogus ore"
+    }
+  },
+  "foldersRoot": {
+    "name": "~",
+    "children": []
+  },
+  "workspaceSettings": {
+    "modid": "the_doom_dragons",
+    "modName": "randum",
+    "version": "1.0.0",
+    "author": "neven, MCreator",
+    "websiteURL": "https://mcreator.net",
+    "license": "Academic Free License v3.0",
+    "disableForgeVersionCheck": true,
+    "serverSideOnly": false,
+    "requiredMods": [],
+    "dependencies": [],
+    "dependants": [],
+    "mcreatorDependencies": [],
+    "currentGenerator": "forge-1.18.2",
+    "credits": "Created using mod maker MCreator - https://mcreator.net/about",
+    "modElementsPackage": "net.mcreator.thedoomdragons",
+    "lockBaseModFiles": false
+  },
+  "mcreatorVersion": 202200120510
+}

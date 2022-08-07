@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "the_doom_dragons:blocks/susleaf",
+    "up": "the_doom_dragons:blocks/susleaf",
+    "north": "the_doom_dragons:blocks/susleaf",
+    "east": "the_doom_dragons:blocks/susleaf",
+    "south": "the_doom_dragons:blocks/susleaf",
+    "west": "the_doom_dragons:blocks/susleaf",
+    "particle": "the_doom_dragons:blocks/susleaf"
+  }
+}

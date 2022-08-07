@@ -1,0 +1,104 @@
+{
+  "_fv": 28,
+  "_type": "biome",
+  "definition": {
+    "name": "Sus",
+    "groundBlock": {
+      "value": "CUSTOM:Amogusdirt"
+    },
+    "undergroundBlock": {
+      "value": "CUSTOM:Amogusore"
+    },
+    "underwaterBlock": {
+      "value": ""
+    },
+    "airColor": {
+      "value": -3407872,
+      "falpha": 0.0
+    },
+    "waterColor": {
+      "value": -6749953,
+      "falpha": 0.0
+    },
+    "ambientSound": {
+      "value": "CUSTOM:com.meme.rickroll"
+    },
+    "additionsSound": {
+      "value": ""
+    },
+    "music": {
+      "value": ""
+    },
+    "moodSound": {
+      "value": ""
+    },
+    "moodSoundDelay": 6000,
+    "spawnParticles": false,
+    "particleToSpawn": {
+      "value": "EXPLOSION_NORMAL"
+    },
+    "particlesProbability": 0.5,
+    "biomeCategory": "THEEND",
+    "rainingPossibility": 0.5,
+    "temperature": 0.5,
+    "baseHeight": 0.1,
+    "heightVariation": 0.2,
+    "spawnBiome": true,
+    "spawnBiomeNether": false,
+    "spawnInCaves": true,
+    "biomeWeight": 10,
+    "biomeDictionaryTypes": [
+      "WASTELAND"
+    ],
+    "grassPerChunk": 10,
+    "seagrassPerChunk": 0,
+    "flowersPerChunk": 0,
+    "mushroomsPerChunk": 0,
+    "bigMushroomsChunk": 0,
+    "sandPatchesPerChunk": 0,
+    "gravelPatchesPerChunk": 0,
+    "reedsPerChunk": 0,
+    "cactiPerChunk": 3,
+    "treesPerChunk": 2,
+    "vanillaTreeType": "Default",
+    "treeType": 1,
+    "minHeight": 7,
+    "treeStem": {
+      "value": "CUSTOM:Suslog"
+    },
+    "treeBranch": {
+      "value": "CUSTOM:Susleaf"
+    },
+    "treeVines": {
+      "value": ""
+    },
+    "treeFruits": {
+      "value": "CUSTOM:Opblock"
+    },
+    "spawnStronghold": true,
+    "spawnMineshaft": true,
+    "spawnMineshaftMesa": false,
+    "spawnPillagerOutpost": false,
+    "villageType": "desert",
+    "spawnWoodlandMansion": false,
+    "spawnJungleTemple": true,
+    "spawnDesertPyramid": true,
+    "spawnSwampHut": true,
+    "spawnIgloo": false,
+    "spawnOceanMonument": false,
+    "spawnShipwreck": false,
+    "spawnShipwreckBeached": true,
+    "spawnBuriedTreasure": true,
+    "oceanRuinType": "WARM",
+    "spawnNetherBridge": false,
+    "spawnNetherFossil": true,
+    "spawnBastionRemnant": false,
+    "spawnEndCity": true,
+    "spawnRuinedPortal": "STANDARD",
+    "defaultFeatures": [
+      "Ores",
+      "Caves"
+    ],
+    "spawnEntries": []
+  }
+}
